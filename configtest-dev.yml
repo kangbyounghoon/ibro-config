@@ -1,1 +1,3 @@
-
+name: https://github.com/kangbyounghoon/ibro-config.git
+source:
+ ibro.value: dev-test-value

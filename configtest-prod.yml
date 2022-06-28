@@ -1,1 +1,2 @@
-ibro.value: prod-test-value
+ibro:
+ value: prod-test-value

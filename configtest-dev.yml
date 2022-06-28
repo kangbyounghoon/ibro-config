@@ -1,1 +1,2 @@
-ibro.value: dev-test-value
+ibro:
+ value: dev-test-value
